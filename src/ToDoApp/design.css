@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    max-height: 90vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+}
+
+.delete {
+    margin-left: auto;
+    padding:  2px;
+    border-radius: 10px;
+}
+ul {
+   list-style: none;
+}
